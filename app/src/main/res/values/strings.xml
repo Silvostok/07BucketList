@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">07BucketList</string>
+    <string name="app_name">07 Bucket List</string>
     <string name="action_settings">Settings</string>
-    <string name="dit_is_een_checkbox">Dit is een checkbox</string>
+    <string name="dit_is_een_checkbox">Ceckbox</string>
     <string name="textview">Fill in a item.</string>
     <string name="title_activity_add_item">Add Item</string>
 </resources>
